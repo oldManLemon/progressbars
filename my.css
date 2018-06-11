@@ -1,0 +1,8 @@
+@keyframes phpProgress{
+    from {width: 0%;}
+    to {width: 68%;}
+}
+
+#fullbar{
+    width:68%;
+}
